@@ -63,7 +63,7 @@ public class Einstein {
                     System.out.println("FAILED");
                 }
             }else{
-                System.out.println("First and last digits are identical!");
+                System.out.println("The first and the last digits of the number should be different");
             }
         }else{
             //Input num is invalid(Either not positive or out of the 3 digit range)
